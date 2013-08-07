@@ -1,8 +1,11 @@
 Mythical Image Wars
 ===================
 Contributors: Matthew Jackowski
+
 Donate link:Buy a mug http://mythicalbeastwars.com/mythical-beast-wars-mugs-version001/
+
 Requires at least: 3.0
+
 Tested up to: 3.5
 
 
@@ -12,12 +15,19 @@ A plugin that allows for extended image contest meta (like ratings) and a set of
 Description
 ===========
 TODO UPDATE THIS INFO - Mjj
+
 Mythical Image Wars adds the follow meta to your images:
+
 Entry Number
+
 Public Rating Number
+
 Judge Rating Number
+
 Place Array (Ordinal Override, Float Image Url, Float Image Top, Float Image Left)
+
 Before Image HTML Blurb
+
 After Image HTML Blurb
 
 Changelog
