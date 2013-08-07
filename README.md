@@ -58,11 +58,11 @@ Initial Alpha Test Version
 Installation
 ============
 Install steps:
-Unzip into your 'plugins' dir
-Goto wp-admin and activate the plugin
-Goto Settings->Mythical Image Wars
-Fill out the first,second,third float images
-Build a new post and attach images...you should see new fields on the edit image screen
-Then include shortcode in post body "[miw-render]"
++ Unzip into your 'plugins' dir
++ Goto wp-admin and activate the plugin
++ Goto Settings->Mythical Image Wars
++ Fill out the first,second,third float images
++ Build a new post and attach images...you should see new fields on the edit image screen
++ Then include shortcode in post body "[miw-render]"
 
 Attach/upload images to the post and update meta data as needed
