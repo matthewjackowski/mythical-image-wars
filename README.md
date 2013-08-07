@@ -1,12 +1,16 @@
-=== Mythical Image Wars ===
+Mythical Image Wars
+===================
 Contributors: Matthew Jackowski
 Donate link:Buy a mug http://mythicalbeastwars.com/mythical-beast-wars-mugs-version001/
 Requires at least: 3.0
 Tested up to: 3.5
 
+
 A plugin that allows for extended image contest meta (like ratings) and a set of customizable list templates for easy inclusion into posts.
 
-== Description ==
+
+Description
+===========
 TODO UPDATE THIS INFO - Mjj
 Mythical Image Wars adds the follow meta to your images:
 Entry Number
@@ -16,7 +20,8 @@ Place Array (Ordinal Override, Float Image Url, Float Image Top, Float Image Lef
 Before Image HTML Blurb
 After Image HTML Blurb
 
-== Changelog ==
+Changelog
+=========
 = Version 0.4.0 =
 Brought deprecated calls back up to date
 
@@ -40,8 +45,8 @@ Added setting to turn off output buffering
 
 Initial Alpha Test Version
 
-== Installation ==
-
+Installation
+============
 Install steps:
 Unzip into your 'plugins' dir
 Goto wp-admin and activate the plugin
@@ -50,11 +55,4 @@ Fill out the first,second,third float images
 Build a new post and attach images...you should see new fields on the edit image screen
 Then include shortcode in post body "[miw-render]"
 
-== Frequently Asked Questions ==
-
-TBD
-
-== Screenshots ==
-
-TBD
-
+Attach/upload images to the post and update meta data as needed
